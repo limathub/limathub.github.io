@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   address:
     <p>Mountain View, CA 94040</p>
-    <p>Email<text>:</text> <a href="mailto:limathonggyu@gmail.com">limathonggyu</a></p>
+    <p>Email<text>:</text> <a href="mailto:limathonggyu@gmail.com">limathonggyu</a> (gmail)</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page

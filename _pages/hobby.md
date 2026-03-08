@@ -8,7 +8,7 @@ nav_order: 7
 horizontal: false
 ---
 
-<h5> I am an amateur photographer who (by definition) loves to share the photos I took. </h5>
+<h5> I am an amateur photographer who by definition loves to share the photos I took. </h5>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

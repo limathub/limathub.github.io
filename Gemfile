@@ -1,5 +1,3 @@
-ruby "3.4.7"
-
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'jekyll'

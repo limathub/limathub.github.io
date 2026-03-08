@@ -4,16 +4,34 @@
     - name: Full Name
       value: Lim, Dong Gyu (임동규)
     - name: Address
-      value: Evans Hall 775, UC Berkeley, CA 94720
+      value: 19xx Latham St, Mountain View, CA 94040
     - name: Email
-      value: limath (at) the typical school email address with 'berkeley' or <a href="mailto:limath@math.berkeley.edu">Send Email</a>
+      value: limath (at) the typical school email address with 'berkeley' or <a href="mailto:limathonggyu@gmail.com">Send Email</a>
+
+- title: Work Experiences
+  type: time_table
+  contents:
+    - title: AI / ML Researcher
+      institution: BONE Inc.
+      year: 2025.3 - 
+      description: Machine Learning Researcher for Drone Vision
+
+    - title: Member of Research Staff (Quant Researcher)
+      institution: Voleon Group
+      year: 2024.9 - 2025.3
+      description: Machine Learning Researcher towards Quantitative Trading
+
+    - title: Researcher / Communicator
+      institution: National Institute for Mathematical Sciences
+      year: 2015.8 - 2018.9
+      description: Industrial Mathematics
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD (expected)
+    - title: PhD
       institution: University of California @ Berkeley
-      year: 2018.8 - 2024.5
+      year: 2018.8 - 2024.8
       description:
         - under <a href="https://math.berkeley.edu/~swshin/">Sug Woo Shin</a>,
         - with the thesis titled "Geometry of affine Deligne-Lusztig varieties"
@@ -84,7 +102,7 @@
         - Summer 2014, Math 54, <i>Full-time Instructor</i>
         - Fall 2014, Math 54
         - Spring 2015, Math 1B (Calculus)
-    - title: <a href="https://math.berkeley.edu/wp/drp/program-overview/">Directed Reading Program Mentor</a>, UC Berkeley
+    - title: <a href="https://wp.math.berkeley.edu/drp/">Directed Reading Program Mentor</a>, UC Berkeley
       year: Spring 2015<br><br>Spring 2020
       institution: Mentored an undergraduate student to carry out an independent reading project
       description:

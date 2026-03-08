@@ -13,7 +13,7 @@ profile:
     <p>Email<text>:</text> <a href="mailto:limathonggyu@gmail.com">limathonggyu</a></p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
 Welcome! I am Dong Gyu Lim. (Dong Gyu is my first name.)

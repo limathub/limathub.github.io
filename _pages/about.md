@@ -2,17 +2,15 @@
 layout: about
 title: me
 permalink: /
-subtitle: PhD candidate at <a href='https://math.berkeley.edu/people/grad/dong-gyu-lim'>UC Berkeley</a>
+subtitle: AI / ML Researcher at BONE Inc. (PhD in Mathematics at UC Berkeley)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address:
-    <p>Evans Hall 775</p>
-    <p>Department of Mathematics, UC Berkeley</p>
-    <p>Berkeley, CA 94720</p>
-    <p>Email<text>:</text> <a href="mailto:limath@math.berkeley.edu">limath</a> (Click!)</p>
+    <p>Mountain View, CA 94040</p>
+    <p>Email<text>:</text> <a href="mailto:limathonggyu@gmail.com">limathonggyu</a> (Click!)</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -20,8 +18,14 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome! I am Dong Gyu Lim. (Dong Gyu is my first name.)
 
-I am on the job market now (Fall 2023 - Spring 2024).<br>
-In May 2024, I am expecting to receive my PhD diploma.
+I am currently a researcher / engineer at a startup company BONE Inc.
+
+As a researcher, I study, develop, and implement algorithms including PPO (or MAPPO) and vision algorithms (VLM). As an engineer, I do a lot of works including DevOps.
+
+I studied Mathematics (especially Algebraic Number Theory and even more specifically Affine Deligne-Lusztig Varieties) from UC Berkeley until 2024.
+
+
+
 
 The picture is me standing on a huge rock somewhere in Yosemite.
 

@@ -22,7 +22,7 @@ I am currently a researcher / engineer at a startup company BONE Inc.
 
 As a researcher, I study, develop, and implement algorithms including PPO (or MAPPO) and vision algorithms (VLM). As an engineer, I do a lot of works including DevOps.
 
-I studied Mathematics (especially Algebraic Number Theory and even more specifically Affine Deligne-Lusztig Varieties) from UC Berkeley until 2024.
+I studied Mathematics (especially Algebraic Number Theory and even more specifically Affine Deligne-Lusztig Varieties) from UC Berkeley until 2024. I am still very much interested in Mathematics and currently learning Lean. Please feel free to email me if you are interested in my research or you have any position which fits my research.
 
 
 

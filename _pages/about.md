@@ -18,6 +18,8 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! I am Dong Gyu Lim. (Dong Gyu is my first name.)
 
+Try...
+
 I am currently a researcher / engineer at a startup company BONE Inc.
 
 As a researcher, I study, develop, and implement algorithms including PPO (or MAPPO) and vision algorithms (VLM). As an engineer, I do a lot of works including DevOps.
